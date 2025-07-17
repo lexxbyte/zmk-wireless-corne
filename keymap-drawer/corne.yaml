@@ -29,7 +29,7 @@ layers:
   - L
   - ;
   - ''''
-  - $$mdi:apple-keyboard-command$$
+  - $$mdi:apple-keyboard-option$$
   - Z
   - X
   - C
@@ -43,10 +43,10 @@ layers:
   - .
   - /
   - $$mdi:apple-keyboard-control$$
-  - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-command$$
   - {t: '$$mdi:backspace$$', type: backspace}
-  - {t: '$$mdi:keyboard-space$$', h: Symbols}
-  - {t: '$$mdi:keyboard-return$$', h: Fnavol}
+  - {t: '$$mdi:keyboard-return$$', h: Symbols}
+  - {t: '$$mdi:keyboard-space$$', h: Fnavol}
   - {t: '$$mdi:keyboard-esc$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '&caps_word', h: '$$mdi:apple-keyboard-option$$'}
   Symbols:
