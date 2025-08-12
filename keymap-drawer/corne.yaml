@@ -29,7 +29,7 @@ layers:
   - L
   - ;
   - ''''
-  - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-command$$
   - Z
   - X
   - C
@@ -43,7 +43,7 @@ layers:
   - .
   - /
   - $$mdi:apple-keyboard-control$$
-  - $$mdi:apple-keyboard-command$$
+  - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:keyboard-return$$', h: Symbols}
   - {t: '$$mdi:keyboard-space$$', h: Fnavol}
