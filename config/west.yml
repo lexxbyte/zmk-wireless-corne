@@ -5,9 +5,6 @@ manifest:
     - name: mctechnology17
       url-base: https://github.com/mctechnology17
   projects:
-    - name: corne
-      url: https://github.com/lmilojevicc/zmk-wireless-corne
-      revision: main
     - name: zmk
       remote: zmkfirmware
       revision: v0.3.0
