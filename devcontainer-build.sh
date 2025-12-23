@@ -19,8 +19,6 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-source .venv/bin/activate
-
 # Update west to pull the required modules
 west update
 west zephyr-export
