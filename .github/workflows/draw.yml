@@ -9,6 +9,7 @@ on:
       - "!**.md"
       - "!.gitignore"
       - "build.sh"
+      - "devcontainer-build.sh"
 
 jobs:
   draw:
@@ -19,4 +20,4 @@ jobs:
       commit_message: "[Draw] ${{ github.event.head_commit.message }}"
       destination: "commit"
       fail_on_error: ${{ fromJSON(true) }}
-      draw_args: "-c separate -n 2"  
+      draw_args: "-c separate -n 2"

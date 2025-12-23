@@ -66,6 +66,8 @@ parse_config:
       tap: "->"
     "&colon_equals":
       tap: ":="
+    "&go_ch":
+      tap: "<-"
 
     # Mouse Scroll
     "&msc SCRL_UP":
