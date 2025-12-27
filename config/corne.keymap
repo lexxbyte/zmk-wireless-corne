@@ -246,7 +246,7 @@
         elvis_sign: elvis_sign {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp E &kp L>;
+            bindings = <&kp QUESTION &kp COLON>;
             label = "ELVIS_SIGN";
         };
     };
