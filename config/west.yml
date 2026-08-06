@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: zmk-nice-oled
       remote: lexxbyte
-      revision: 5164a9625c2a3c1c8d20bce896fc8bf9271a1c39
+      revision: c7c1e82d7a2befecd64ca57848da9ac66c0d1437
   self:
     path: config
